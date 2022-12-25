@@ -1,0 +1,1 @@
+adb -d shell dpm set-device-owner com.oasisfeng.island/.IslandDeviceAdminReceiver
